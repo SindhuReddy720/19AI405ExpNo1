@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: NALINIPRIYA G </h3>
-<h3>Register Number/Staff Id: TSIT031</h3>
+<h3>Name: Pelleti Sindhu Sri </h3>
+<h3>Register Number: 212224240113</h3>
 
 
 <h3>AIM:</h3>
